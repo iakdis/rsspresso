@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.iakmds.rssPresso</id>
+  
+  <name>rssPresso</name>
+  <summary>A minimal, cross-platform news aggregator</summary>
+  
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <description>
+    <p>
+      rssPresso is a minimal, cross-platform news aggregator written in Flutter.
+    </p>
+    <p>
+      Import your favorite RSS/Atom feeds and start reading ahead. Load the full content of an article with a click of a button, or open it externally. You can star your article for later - and, when you're ready, simply filter your feed by saved or unread articles. Easily search your feeds to find what you want. Switch between different UI layouts to suit your needs. Enjoy a modern Material design with a light &amp; dark theme. Free and open source - for your freedom.
+    </p>
+    <ul>
+        <li>Import &amp; export your feeds via OPML files</li>
+        <li>Load the full content of an article</li>
+        <li>Star articles &amp; mark articles as read/unread</li>
+        <li>Search for articles</li>
+        <li>Filter feeds by unread or saved articles</li>
+        <li>Material design with a light &amp; dark theme</li>
+        <li>Switch between different UI layouts</li>
+        <li>Free and open source (GPLv3)</li>
+        <li>...and many more features planned</li>
+    </ul>
+  </description>
+  
+  <launchable type="desktop-id">com.iakmds.rssPresso.desktop</launchable>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/iakmds/rsspresso/master/.github/desktop-light-article.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/iakmds/rsspresso/master/.github/desktop-dark-article.png</image>
+    </screenshot>
+  </screenshots>
+</component>

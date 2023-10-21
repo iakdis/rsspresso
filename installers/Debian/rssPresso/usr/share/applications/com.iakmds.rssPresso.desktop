@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=rssPresso
+Comment=A minimal, cross-platform news aggregator
+Categories=Network;News;Feed
+Icon=/usr/share/icons/rsspresso.svg
+
+Exec=/usr/bin/rsspresso
+Terminal=false
+StartupWMClass=rssPresso

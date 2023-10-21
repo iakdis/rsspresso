@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+X-AppImage-Version=0.1.0
+Type=Application
+
+Name=rssPresso
+Comment=A minimal, cross-platform news aggregator
+Categories=Network;News;Feed
+Icon=rsspresso
+
+Exec=rsspresso
+Terminal=false
+StartupWMClass=rssPresso
