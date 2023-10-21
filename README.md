@@ -74,6 +74,7 @@ Import your favorite **RSS/Atom** feeds and start reading ahead. Load the full c
 
 # Screenshots
 <p float="left">
+  <img src="https://github.com/iakmds/rsspresso/blob/master/.github/mobile.png" alt="Mobile screenshots">
   <img src="https://github.com/iakmds/rsspresso/blob/master/.github/desktop-light-article.png" alt="Desktop screenshot light article">
   <img src="https://github.com/iakmds/rsspresso/blob/master/.github/desktop-dark-article.png" alt="Desktop screenshot dark article">
 </p>
