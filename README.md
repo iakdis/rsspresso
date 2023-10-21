@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/iakmds/rsspresso">
-    <img src="https://github.com/iakmds/rsspresso/blob/main/.github/icon.svg" alt="rssPresso app icon" width="200">
+    <img src="https://github.com/iakmds/rsspresso/blob/master/.github/icon.svg" alt="rssPresso app icon" width="200">
   </a>
 </p>
 
@@ -74,8 +74,8 @@ Import your favorite **RSS/Atom** feeds and start reading ahead. Load the full c
 
 # Screenshots
 <p float="left">
-  <img src="https://github.com/iakmds/rsspresso/blob/main/.github/desktop-light-article.png" alt="Desktop screenshot light article">
-  <img src="https://github.com/iakmds/rsspresso/blob/main/.github/desktop-dark-article.png" alt="Desktop screenshot dark article">
+  <img src="https://github.com/iakmds/rsspresso/blob/master/.github/desktop-light-article.png" alt="Desktop screenshot light article">
+  <img src="https://github.com/iakmds/rsspresso/blob/master/.github/desktop-dark-article.png" alt="Desktop screenshot dark article">
 </p>
 
 # Downloads
