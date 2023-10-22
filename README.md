@@ -48,7 +48,6 @@
       <ul>
         <li><a href="#android">Android</a></li>
         <li><a href="#windows">Windows</a></li>
-        <li><a href="#macos">macOS</a></li>
         <li><a href="#linux">Linux</a></li>
       </ul>
     </li>
@@ -56,7 +55,7 @@
       <a href="#contributing">Contributing</a>
       <ul>
           <li><a href="#code">Code</a></li>
-          <li><a href="#bug-reports-feature-requests-and-improvements">Bug reports, feature requests and improvements</a></li>
+          <li><a href="#bug-reports--feature-requests">Bug reports & feature requests</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -70,7 +69,9 @@
 
 rssPresso is a **minimal**, **cross-platform** **news aggregator** written in Flutter. 
 
-Import your favorite **RSS/Atom** feeds and start reading ahead. Load the full content of an article with a click of a button, or open it externally. You can star your article for later - and, when you're ready, simply filter your feed by saved or unread articles. Easily search your feeds to find what you want. Switch between different UI layouts to suit your needs. Enjoy a modern Material design with a light & dark theme. <a href="LICENSE">Free and open source</a> - for your freedom.
+Import your favorite **RSS/Atom** feeds and start reading ahead. Load the **full content** of an article with a click of a button, or open it externally. You can **star your article** for later - and, when you're ready, simply **filter** your feed by saved or unread articles. Easily **search** your feeds to find what you want. Switch between different **UI layouts** to suit your needs. 
+
+Enjoy a modern **Material design** with a light & dark theme. <a href="LICENSE">Free and open source</a> - for your freedom.
 
 # Screenshots
 <p float="left">
@@ -129,7 +130,7 @@ To install rssPresso as a **.deb** package, download the [rssPresso-Linux.deb](h
 
 These are the ways you can contribute to rssPresso:
 
-### Bug reports, feature requests and improvements
+### Bug reports & feature requests
 
 Open an issue on GitHub: [Open issue](https://github.com/iakmds/rsspresso/issues). Remember to check for duplicates and try to give important information such as the app version, your operating system, etc.
 
@@ -154,7 +155,7 @@ Feel free to send in a [pull request](https://github.com/iakmds/rsspresso/pulls)
 - [ ] Background article fetching
 - [ ] Desktop keyboard shortcuts
 - [ ] Push notifications for desktop & mobile
-- [ ] Multi-language support
+- [ ] Multi language support
 - [ ] [Your features](https://github.com/iakmds/rsspresso/issues)
 
 # Packages used
